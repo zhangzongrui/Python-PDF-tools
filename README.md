@@ -1,3 +1,3 @@
 # Python-PDF-tools-
-使用PyMuPDF库，实现PDF转Word，PDF转图片，图片转PDF，合并拆分等功能
-详情：https://pymupdf.readthedocs.io/en/latest/
+使用PyMuPDF库，实现PDF转Word，PDF转图片，图片转PDF，合并、拆分等功能
+PyMuPDF详情：https://pymupdf.readthedocs.io/en/latest/
