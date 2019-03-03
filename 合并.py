@@ -14,9 +14,9 @@ def merge(doc1,doc2):
     return m1
 
 def main():
-doc1="F:/Python/test1.pdf"
-doc2="F:/Python/test2.pdf"
-merge(doc1,doc2)
+    doc1="F:/Python/test1.pdf"
+    doc2="F:/Python/test2.pdf"
+    merge(doc1,doc2)
 
 if __name__ == '__main__':
     main()
