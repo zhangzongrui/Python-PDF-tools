@@ -12,11 +12,3 @@ def merge(doc1,doc2):
     #print("操作完成，文件以保存在:\n"+Doc+"(合并).pdf")
     m1="操作完成，文件以保存在:\n"+Doc+"(合并).pdf"
     return m1
-
-def main():
-    doc1="F:/Python/test1.pdf"
-    doc2="F:/Python/test2.pdf"
-    merge(doc1,doc2)
-
-if __name__ == '__main__':
-    main()
