@@ -11,10 +11,3 @@ def split(doc, from_pa, to_pa):
     s1="\n操作完成，文件以保存在:\n"+Doc+"(拆分).pdf"
     return s1
 
-def main():
-    doc="F:/Python/test.pdf"
-    split(doc)
-
-if __name__ == '__main__':
-    main()
-
